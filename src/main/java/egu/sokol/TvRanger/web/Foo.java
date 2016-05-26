@@ -12,7 +12,6 @@ class Foo {
   @RequestMapping("/**")
   @ResponseBody
   public String foo() {
-    System.out.println("Hello World!");
     return "This is foo method call!";
   }
 }
