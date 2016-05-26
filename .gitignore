@@ -1,4 +1,5 @@
 *.class
 *.war
 *~
+target/src/main/resources/mvn/local.properies
 target/
